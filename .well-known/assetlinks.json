@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.healthbridge.probe",
+      "sha256_cert_fingerprints": [
+        "46:8F:89:F2:23:45:59:65:45:B5:B2:6F:BC:30:FB:0D:E1:19:F8:D1:48:7D:7E:3B:69:24:C1:95:7A:CB:6B:82"
+      ]
+    }
+  }
+]
